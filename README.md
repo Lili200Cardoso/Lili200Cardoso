@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Lili Cardoso 👋
-![6oc0mt](https://user-images.githubusercontent.com/96260047/181830634-e1b74f0a-d597-4a38-943c-9b25fbb8fc3a.gif)
+
 
 - 🔭 Hoje faço Análise e Desenvolvimento de Sistemas
 - 🌱 No momento estudando Java
@@ -20,6 +20,8 @@
   <img align="center" alt="Lili-GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Lili-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Lili-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">  
+  
+  ![6oc0mt](https://user-images.githubusercontent.com/96260047/181830634-e1b74f0a-d597-4a38-943c-9b25fbb8fc3a.gif)
 </div>
 
 ##

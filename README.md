@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Lili Cardoso 👋
+![6oc0mt](https://user-images.githubusercontent.com/96260047/181830634-e1b74f0a-d597-4a38-943c-9b25fbb8fc3a.gif)
 
 - 🔭 Hoje faço Análise e Desenvolvimento de Sistemas
 - 🌱 No momento estudando Java

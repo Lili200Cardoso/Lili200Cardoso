@@ -19,7 +19,7 @@
   <img align="center" alt="Lili-GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Lili-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Lili-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Lili-Gif" height="30" width="40 src=""https://www.canva.com/design/DAFH0uNqKlQ/qxVsQRJIisv_Na86Bn9jfQ/edit">  
+  <img align="center" alt="Lili-Gif" height="30" width="40" src="https://www.canva.com/design/DAFH0uNqKlQ/qxVsQRJIisv_Na86Bn9jfQ/edit?utm_content=DAFH0uNqKlQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">  
 </div>
 
 ##

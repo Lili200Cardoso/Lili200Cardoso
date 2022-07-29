@@ -19,8 +19,7 @@
   <img align="center" alt="Lili-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lili-GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Lili-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Lili-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Lili-Gif" height="30" width="40" src="https://www.canva.com/design/DAFH0uNqKlQ/qxVsQRJIisv_Na86Bn9jfQ/edit?utm_content=DAFH0uNqKlQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">  
+  <img align="center" alt="Lili-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">  
 </div>
 
 ##
@@ -32,6 +31,7 @@
   <a href="https://www.linkedin.com/in/lilicardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5531983095363"target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
+![Snake animation](https://github.com/Lili200Cardoso/Lili200Cardoso/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 

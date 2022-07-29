@@ -21,7 +21,7 @@
   <img align="center" alt="Lili-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Lili-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">  
   
-  ![6oc0mt](https://user-images.githubusercontent.com/96260047/181830634-e1b74f0a-d597-4a38-943c-9b25fbb8fc3a.gif)
+  
 </div>
 
 ##
@@ -34,8 +34,9 @@
   <a href="https://wa.me/5531983095363"target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/Lili200Cardoso/Lili200Cardoso/blob/output/github-contribution-grid-snake.svg)
-
+![6oc0mt](https://user-images.githubusercontent.com/96260047/181830634-e1b74f0a-d597-4a38-943c-9b25fbb8fc3a.gif)
 </div>
+
 
 
 

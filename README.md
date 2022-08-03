@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje faço Análise e Desenvolvimento de Sistemas
-- 🌱 No momento estudando Java
+- 🌱 No momento estudando Java e JavaScript!
 - 😄 Pronome: ela/dela
 
 <div align="center">

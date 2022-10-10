@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Lili Cardoso 👋
 
 
-- 🔭 Hoje faço Análise e Desenvolvimento de Sistemas
-- 🌱 No momento estudando Java, HTML5, CSS3 e JavaScript!
+- 🔭 Hoje curso Análise e Desenvolvimento de Sistemas
+- 🌱 No momento estudando .NET!
 - 😄 Pronome: ela/dela
 
 <div align="center">
